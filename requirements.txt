@@ -1,0 +1,4 @@
+List of libraries so others can install easily:
+speechrecognition
+pyttsx3
+requests
