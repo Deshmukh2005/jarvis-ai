@@ -16,12 +16,4 @@ It can perform voice-controlled tasks, text-to-speech, web automation, and featu
 git clone https://github.com/Deshmukh2005/jarvis-ai.git
 cd jarvis-ai
 pip install -r requirements.txt
-🚀 Usage
-bash
-python "jarvis 2.0.py"
-📌 Future Plans
-AI/ML modules for smarter responses
 
-Expanded glowing GUI with particle effects
-
-API integrations (weather, calendar, etc.)
